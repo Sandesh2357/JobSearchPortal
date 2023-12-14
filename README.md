@@ -1,2 +1,2 @@
-# JobSearchPortal
+# Job Search Portal
 JobSearchPortal
